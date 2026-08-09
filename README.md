@@ -105,21 +105,9 @@
 <img src="https://img.shields.io/badge/LeetCode-460%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/SrishanthReddy18/">
-<img src="https://img.shields.io/badge/Rating-1688-yellow?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
 <a href="https://www.codechef.com/users/srishanth18">
 <img src="https://img.shields.io/badge/CodeChef-150%2B%20Problems-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
-
-</p>
-
-<p align="center">
-
-🏆 <b>CodeChef Best Global Rank: 271</b>
-&nbsp;&nbsp; • &nbsp;&nbsp;
-⚡ <b>Smart Interviews Top 30 / Top 50</b>
 
 </p>
 
@@ -157,26 +145,14 @@
 
 <p align="center">
 
-<a href="https://github.com/24071a05h0">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+<a href="mailto:reddytirupathi077@gmail.com">
+<img src="https://img.shields.io/badge/Email-reddytirupathi077%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/SrishanthReddy18/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/kotla-srishanth-reddy-732609330/)">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/users/srishanth18">
-<img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef"/>
-</a>
-
-<a href="https://codeforces.com/profile/reddytirupathi077">
-<img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge&logo=codeforces"/>
-</a>
-
-</p>
-
-<p align="center">
-  <i>💡 Build. Learn. Solve. Repeat.</i>
 </p>
 
 <!-- FOOTER -->
